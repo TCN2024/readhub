@@ -21,7 +21,7 @@ This project is built with :
 ## 2. Navigate to the project directory:
 
 ```bash
-  cd MSE-800-Professional-Engineering/readhub
+  cd TCN2024/readhub
 ```
 ## 3 . Create a virtual environment:
 ```bash
