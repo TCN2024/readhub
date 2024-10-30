@@ -17,7 +17,7 @@ This project is built with :
 ## Installation 📦
 ### To install ReadHub - Library Management, follow these steps:
 ## 1. Clone this repository:
->'https://github.com/TCN2024/MSE-800-Professional-Engineering'
+>'https://github.com/TCN2024/readhub'
 ## 2. Navigate to the project directory:
 
 ```bash
